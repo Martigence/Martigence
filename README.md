@@ -1,46 +1,38 @@
-# Martigence 
+<p align="center">
+  <img src="brand/martigence-logo-dark-bg.png" alt="Martigence logo" width="260">
+</p>
 
-## Introduction
+# Martigence
 
-Martigence is an innovative platform that aims to revolutionize the on-demand professional services sector. Our mission is to connect skilled professionals with users seeking reliable and efficient home services. With a focus on quality, convenience, and skill development, Martigence is set to redefine the way people access and provide professional services.
+**Professional home and local skilled services, with fair and transparent matching.**
 
-## Features
+Martigence connects customers with skilled local professionals:
 
-- **Wide Range of Services:** Martigence offers a diverse range of professional services, including electricians, plumbers, carpenters, and more.
+- Electrician
+- Plumber
+- Carpenter
+- Painting
+- Laundry
+- Dry cleaning
+- Car care
+- Salon at home
 
-- **7th Level Program:** Our unique 7th Level Program is designed to address challenges in the unorganized sector, providing a structured pathway for skill development and empowerment.
+## How it works
 
-- **Mobile-Friendly:** Access Martigence services anytime, anywhere, through our user-friendly mobile app.
+- **Fair, transparent AI matching:** customers are matched with providers by clear, explainable criteria.
+- **Ranks program:** 7 levels for customers and providers: Apprentice, Hand, Skilled, Expert, Master, Guild, Grandmaster.
+  Ranks are earned. **Nobody can pay for a higher rank.**
 
-- **Quality Assurance:** We prioritize quality and reliability, ensuring that users receive top-notch services from skilled professionals.
+## Launch
 
-- **Community Building:** Martigence aims to build a community of skilled professionals and users, fostering collaboration and mutual growth.
-
-## Getting Started
-
-To get started with Martigence, follow these steps:
-
-1. **Clone the Repository:**
-   ```bash
-   git clone https://github.com/Martigence.git
-   ```
-
-2. **Install Dependencies:**
-   ```bash
-   cd Martigence
-   npm install
-   ```
-
-3. **Run the Application:**
-   ```bash
-   npm start
-   ```
-
-## Contributing
-
-We welcome contributions from the community. If you would like to contribute to Martigence, please follow our [Contribution Guidelines](CONTRIBUTING.md).
-
+Target: **2027**. Deoghar first, then Dhanbad and Ranchi.
 
 ## Contact
 
-For inquiries, please contact us at [martigence@gmail.com]
+- Website: [www.martigence.com](https://www.martigence.com)
+- Email: [martigence@gmail.com](mailto:martigence@gmail.com)
+- X: [@RoushanStartup](https://x.com/RoushanStartup)
+
+---
+
+<sub>MARTIGENCE® is a registered trademark of Roushan Kumar Singh.</sub>
